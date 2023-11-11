@@ -1,4 +1,5 @@
-# provenance
+## YAYPEGS
+## PROVENANCE
 Yaypegs use the hash functions SHA-256. In order to validate the provenance or any image hash, you must use the same hashing algorithm.
 
 This repository is a faithful record of representing each Yaypegs and their respective provenance record. This is a way in which Developers can prove that the order of the Token Image and metadata was set pre-mint, and was not manipulated. Also generate a fair random number post-mint to start the distribution of the NFTs from that number.
